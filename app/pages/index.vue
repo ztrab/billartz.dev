@@ -24,7 +24,7 @@ export default {
   //         json: {
   //           '@context': 'http://schema.org',
   //           '@type': 'Website',
-  //           url: 'https://www.ultralab.com'
+  //           url: 'https://www.billartz.dev.'
   //         },
   //         type: 'application/ld+json'
   //       },

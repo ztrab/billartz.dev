@@ -1,8 +1,13 @@
+import { config } from 'vue/types/umd'
+
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   target: 'static',
+  env: {
+    ...config
+  },
   head: {
-    title: 'UltraLab',
+    title: 'Bill Artz ',
     htmlAttrs: {
       lang: 'en'
     },
@@ -49,6 +54,16 @@ export default {
         collapseWhitespace: true,
         removeEmptyElements: true
       }
+    }
+  },
+
+  watchers: {
+    webpack: {
+      aggregateTimeout: 300,
+      poll: 1000,
+      ignored: [
+        '**/node_modules'
+      ]
     }
   }
 }
