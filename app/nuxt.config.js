@@ -1,11 +1,7 @@
-import { config } from 'vue/types/umd'
 
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   target: 'static',
-  env: {
-    ...config
-  },
   head: {
     title: 'Bill Artz ',
     htmlAttrs: {
