@@ -1,5 +1,5 @@
 <template>
-  <div class="h-screen bg-stone-900">
+  <div class="h-screen max-w-1440 mx-auto">
     <div class="w-full">
       <SkipToMain />
     </div>

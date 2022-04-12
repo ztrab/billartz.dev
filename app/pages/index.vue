@@ -1,5 +1,5 @@
 <template>
-  <div class="h-full">
+  <div class="h-full bg-stone-900">
     <div class="flex justify-center mx-auto">
       <MyBio />
       <Content />

@@ -5,7 +5,11 @@ module.exports = {
     './nuxt.config.js'
   ],
   theme: {
-    extend: {}
+    extend: {
+      maxWidth: {
+        1440: '1440px'
+      }
+    }
   },
   plugins: []
 }
