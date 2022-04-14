@@ -1,6 +1,6 @@
 <template>
   <div class="text-white">
-    <h1 class="text-4xl mt-10">
+    <h1 class="text-4xl">
       Bill Artz
     </h1>
     <p class="text-2xl mt-2">
