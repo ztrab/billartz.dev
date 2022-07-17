@@ -1,9 +1,12 @@
 <template>
-  <div class="h-full bg-stone-900 flex flex-row justify-between">
+  <div class="h-full flex flex-row justify-between">
+    <!-- TODO: Fix mobile alignment between main and content sections -->
     <div class="flex justify-center py-20 px-20">
       <MyBio />
     </div>
     <div class="flex flex-col py-20 px-20 group">
+      <ContentBox />
+      <ContentBox />
       <ContentBox />
     </div>
   </div>

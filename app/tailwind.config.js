@@ -8,6 +8,13 @@ module.exports = {
     extend: {
       maxWidth: {
         1440: '1440px'
+      },
+      textColor: {
+        primary: '#CD4100',
+        secondary: '#EBDBB2'
+      },
+      backgroundColor: {
+        highlight: 'rgb(51, 46, 42)'
       }
     }
   },
