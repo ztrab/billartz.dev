@@ -6,37 +6,43 @@
     </div>
     <div class="flex flex-col py-20 px-20 group">
       <ContentBox>
-        <p class="mt-2 text-xs tracking-widest font-bold uppercase">
-          Nuxt / Tailwind / GraphQL / AWS / CYPRESS
-        </p>
-        <h3 class="mt-2 text-lg text-primary font-bold">
-          Storefront
-        </h3>
-        <p class="my-2 text-xs">
-          Global headless eccommerce, fully tested and brought to you lightning-fast.
-        </p>
+        <a href="https://beta.www.coggoles.com/" target="_blank" class="no-underline p-40">
+          <p class="mt-2 text-xs tracking-widest font-bold uppercase">
+            Nuxt / Tailwind / GraphQL / AWS / CYPRESS
+          </p>
+          <h3 class="mt-2 text-lg text-primary font-bold">
+            Storefront
+          </h3>
+          <p class="my-2 text-xs">
+            Global headless eccommerce, fully tested and brought to you lightning-fast. Beta with Coggles.com
+          </p>
+        </a>
       </ContentBox>
       <ContentBox>
-        <p class="mt-2 text-xs tracking-widest font-bold uppercase">
-          Nuxt / Tailwind / GraphQL / AWS / CYPRESS
-        </p>
-        <h3 class="mt-2 text-lg text-primary font-bold">
-          Storefront
-        </h3>
-        <p class="my-2 text-xs">
-          Global headless eccommerce, fully tested and brought to you lightning-fast.
-        </p>
+        <a href="#" target="_blank" class="no-underline">
+          <p class="mt-2 text-xs tracking-widest font-bold uppercase">
+            TBD
+          </p>
+          <h3 class="mt-2 text-lg text-primary font-bold">
+            Coming Soon
+          </h3>
+          <p class="my-2 text-xs">
+            Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
+          </p>
+        </a>
       </ContentBox>
       <ContentBox>
-        <p class="mt-2 text-xs tracking-widest font-bold uppercase">
-          Nuxt / Tailwind / GraphQL / AWS / CYPRESS
-        </p>
-        <h3 class="mt-2 text-lg text-primary font-bold">
-          Storefront
-        </h3>
-        <p class="my-2 text-xs">
-          Global headless eccommerce, fully tested and brought to you lightning-fast.
-        </p>
+        <a href="#" target="_blank" class="no-underline p-40">
+          <p class="mt-2 text-xs tracking-widest font-bold uppercase">
+            TBD
+          </p>
+          <h3 class="mt-2 text-lg text-primary font-bold">
+            Coming Soon
+          </h3>
+          <p class="my-2 text-xs">
+            Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
+          </p>
+        </a>
       </ContentBox>
     </div>
   </div>
