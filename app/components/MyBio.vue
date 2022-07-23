@@ -7,7 +7,7 @@
       Senior Front End Engineer @ THG
     </p>
     <p>
-      <span class="text-sm">Formerly Target / Dermstore.com </span><br>
+      <span class="text-sm">Former Target</span><br>
       Santa Monica, CA
     </p>
     <p class="mt-4">
