@@ -1,10 +1,9 @@
 <template>
-  <div class="h-full flex flex-col lg:flex-row justify-between">
-    <!-- TODO: Fix mobile alignment text-squeeze between main and content sections for mobile-->
-    <div class="flex justify-center py-20 px-20">
+  <div class="h-full flex flex-col lg:flex-row justify-center md:justify-between mx-auto max-w-1440">
+    <div class="flex justify-center px-10 py-20 lg:pr-20 xl:pr-0 xl:pl-20 w-full lg:min-w-[400px] lg:max-w-[675px]">
       <MyBio />
     </div>
-    <div class="flex flex-col py-20 px-20 group">
+    <div class="flex flex-col px-10 py-20 lg:pr-10 xl:pl-0 xl:pr-20 group w-full lg:max-w-[675px]">
       <ContentBox
         url="https://beta.www.coggles.com"
         sub-title="Nuxt / Tailwind / GraphQL / AWS / CYPRESS"
