@@ -14,7 +14,12 @@ module.exports = {
         secondary: '#EBDBB2'
       },
       backgroundColor: {
-        highlight: 'rgb(51, 46, 42)'
+        highlight: 'rgb(51, 46, 42)',
+        primary: '#EBDBB2',
+        secondary: '#CD4100'
+      },
+      transitionProperty: {
+        width: 'width'
       }
     }
   },
