@@ -2,6 +2,9 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   target: 'static',
+  router: {
+    base: '/billartz.dev/'
+  },
   head: {
     title: 'Bill Artz ',
     htmlAttrs: {
