@@ -8,7 +8,7 @@
     "start": "nuxt start",
     "generate": "nuxt generate",
     "lint:js": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
-    "deploy": "push-dir --dir=dist --branch=main --cleanup"
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
     "@vue-hero-icons/outline": "^1.7.2",
