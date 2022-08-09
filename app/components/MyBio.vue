@@ -1,5 +1,5 @@
 <template>
-  <div class="text-secondary h-full lg:h-screen">
+  <div class="text-secondary h-full">
     <h1 class="font-bold text-6xl tracking-wide">
       Bill Artz
     </h1>
