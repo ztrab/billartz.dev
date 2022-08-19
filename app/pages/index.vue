@@ -4,10 +4,10 @@
       <MyBio />
       <div class="mt-20 lg:mt-0 flex flex-row justify-start my-3 text-secondary">
         <TrendingUpIcon class="w-8 h-8" aria-hidden="true" />
-        <a class="inline-flex items-center transition-all duration-200 ease-in-out group" href="https://www.linkedin.com/in/bill-artz-45a754b/" target="_blank">
+        <!-- <a class="inline-flex items-center transition-all duration-200 ease-in-out group" href="https://www.linkedin.com/in/bill-artz-45a754b/" target="_blank">
           <span class="inline-block w-8 bg-primary h-px mx-4 group-hover:w-16 group-hover:bg-secondary transition-all duration-200" />
           <span class="tracking-widest uppercase group-hover:text-primary group-hover:font-bold transition">linkedin</span>
-        </a>
+        </a> -->
       </div>
     </div>
     <div class="flex flex-col px-10 py-10 lg:py-20 lg:pr-10 xl:pl-0 xl:pr-20 group w-full lg:max-w-[675px]">
