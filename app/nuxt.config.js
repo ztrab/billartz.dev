@@ -51,7 +51,7 @@ export default {
     html: {
       minify: {
         collapseWhitespace: true,
-        removeEmptyElements: true
+        removeEmptyElements: false
       }
     }
   },
