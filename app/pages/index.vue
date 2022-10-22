@@ -45,6 +45,13 @@ export default {
   head () {
     return {
       title: 'Bill Artz - Senior Front End Engineer',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Bill Artz is a Sr Front End software engineer in Santa Monica, California.'
+        }
+      ],
       script: [
         {
           json: {

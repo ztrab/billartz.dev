@@ -5,9 +5,9 @@
         <p class="mt-2 text-xs tracking-widest font-bold uppercase">
           {{ subTitle }}
         </p>
-        <h3 class="mt-2 text-lg text-primary font-bold">
+        <h2 class="mt-2 text-lg text-primary font-bold">
           {{ title }}
-        </h3>
+        </h2>
         <p class="my-2 text-xs">
           {{ bodyContent }}
         </p>
