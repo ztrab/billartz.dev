@@ -15,7 +15,7 @@
         url="https://beta.www.coggles.com"
         sub-title="Nuxt / Tailwind / GraphQL / AWS / CYPRESS"
         title="Storefront"
-        body-content="Global headless ecommerce brought to you lightning-fast. In beta with Coggles.com"
+        body-content="Global headless ecommerce brought to you lightning-fast. Fresh out of beta with Coggles.com"
       />
       <ContentBox
         sub-title="TBD"
