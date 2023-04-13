@@ -12,7 +12,7 @@
     </div>
     <div class="flex flex-col px-10 py-10 lg:py-20 lg:pr-10 xl:pl-0 xl:pr-20 group w-full lg:max-w-[675px]">
       <ContentBox
-        url="https://beta.www.coggles.com"
+        url="https://www.coggles.com"
         sub-title="Nuxt / Tailwind / GraphQL / AWS / CYPRESS"
         title="Storefront"
         body-content="Global headless ecommerce brought to you lightning-fast. Fresh out of beta with Coggles.com"
