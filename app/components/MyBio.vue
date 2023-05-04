@@ -12,8 +12,8 @@
     </p>
     <p class="mt-4">
       Hello! I'm Bill and I'm a full-stack software engineer specializing in front end. I recently worked with
-      <a href="https://www.thehutgroup.com" target="_blank" class="text-primary font-bold underline">THG</a> building a proprietary SSR/Edge SSR platform focused
-      on speed, scalability, analytics and ease of client integration for headless composable ecommerce. The platform is recently out of beta with a THG owned fashion ecommerce site called
+      <a href="https://www.thehutgroup.com" target="_blank" class="text-primary font-bold underline">THG</a> building a proprietary SSR/Edge SSR platform, called Altitude, focused
+      on speed, scalability, analytics and ease of client integration for headless composable ecommerce. Altitude is recently out of beta with a THG owned fashion ecommerce site called
       <a href="https://www.coggles.com" target="_blank" class="text-primary font-bold underline"> Coggles</a>. I previously worked for Target on Dermstore.com which was acquired by THG in 2021.
     </p>
     <p class="mt-3">
