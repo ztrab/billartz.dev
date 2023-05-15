@@ -14,7 +14,7 @@
       <ContentBox
         url="https://www.coggles.com"
         sub-title="Nuxt / Tailwind / GraphQL / AWS / CYPRESS"
-        title="Storefront"
+        title="Altitude"
         body-content="Global headless ecommerce brought to you lightning-fast. Fresh out of beta with Coggles.com"
       />
       <ContentBox
