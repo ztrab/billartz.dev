@@ -10,13 +10,13 @@ module.exports = {
         1440: '1440px'
       },
       textColor: {
-        primary: '#CD4100',
+        primary: '#2dd4bf',
         secondary: '#EBDBB2'
       },
       backgroundColor: {
-        highlight: 'rgb(51, 46, 42)',
+        highlight: '#374151',
         primary: '#EBDBB2',
-        secondary: '#CD4100'
+        secondary: '#2dd4bf'
       },
       transitionProperty: {
         width: 'width'
